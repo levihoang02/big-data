@@ -1,0 +1,10 @@
+{
+    "name": "iot-app",
+    "version": "1.0.0",
+    "dependencies": {
+        "dotenv": "^16.0.0",
+        "iot-app": "file:",
+        "kafka-node": "^5.0.0",
+        "mongoose": "^7.0.0"
+    }
+}
